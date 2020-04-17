@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "43N1slz66RjvyOUQ+sFgwWiW9iBdLoiGZjMEV6aTJya0RcQunkxukdV3EJ2aCAFSN9Ua761LHUeKQA8vDoEUpQ==",
+  "success": true,
+  "projectFilePath": "D:\\visual stuido 2019\\source\\AnimatedColorfulMenu\\AnimatedColorfulMenu\\AnimatedColorfulMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\1.2.3\\materialdesigncolors.1.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\3.1.0\\materialdesignthemes.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
